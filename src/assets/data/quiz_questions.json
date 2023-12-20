@@ -90,11 +90,21 @@
           "alias": "P"
         }
       ]
+    },
+    {
+      "id": 6,
+      "question": "Em qual área de programação você está mais interessado?",
+      "options": [
+        { "id": 1, "name": "Desenvolvimento web", "alias": "P" },
+        { "id": 2, "name": "Desenvolvimento de jogos", "alias": "J" },
+        { "id": 4, "name": "Aplicações empresariais", "alias": "C" },
+        { "id": 5, "name": "Automatização de processos", "alias": "J" }
+      ]
     }
   ],
   "results": {
-    "C": "Você provavelmente se daria bem com linguagens como C++ ou Java!",
-    "P": "Linguagens como Python ou JavaScript podem ser mais sua praia!",
-    "J": "Talvez linguagens como C# ou Ruby se encaixem melhor com seu estilo!"
+    "C": "Você provavelmente se daria bem com linguagens como C++ ou Java! C é uma linguagem de programação de propósito geral conhecida por sua eficiência e poder. É usada para desenvolver sistemas operacionais, aplicativos de baixo nível e aplicações onde o desempenho é crítico. Oferece controle direto sobre a memória do computador. Java é uma linguagem de programação robusta e orientada a objetos. É conhecida por ser portátil e oferecer segurança. É usada para desenvolvimento de aplicativos Android, sistemas empresariais e aplicações de larga escala.",
+    "P": "Linguagens como Python ou JavaScript podem ser mais sua praia! Python é uma linguagem de programação de alto nível conhecida por sua simplicidade e legibilidade. É usada para desenvolvimento web, análise de dados, automação de tarefas e inteligência artificial. É uma ótima opção para iniciantes. JavaScript também é uma linguagem de alto nível, conhecida por ser a principal linguagem para desenvolvimento web pois permite a criação de páginas interativas e dinâmicas e o desenvolvimento no lado do servidor atavés de plataformas como o Node.js.",
+    "J": "Talvez linguagens como C# ou Ruby se encaixem melhor com seu estilo! C# é uma linguagem de programação de propósito geral conhecida por ser robusta, orientada a objetos e de fácil aprendizado. C# é amplamente utilizada para o desenvolvimento de aplicativos Windows, incluindo aplicativos de desktop, jogos e desenvolvimento web com suporte a diversos paradigmas de programação. Ruby é uma linguagem de programação dinâmica, de alto nível e de código aberto. Conhecida por sua simplicidade e facilidade de leitura, é valorizada pela produtividade e versatilidade, é usada para desenvolvimento web, automação de tarefas, criação de aplicativos e jogos."
   }
 }
