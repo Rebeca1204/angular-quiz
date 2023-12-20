@@ -1,0 +1,100 @@
+{
+  "title": "Descubra qual linguagem de programação combina com você!",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Como você prefere resolver problemas?",
+      "options": [
+        { "id": 1, "name": "Com muita lógica e estrutura", "alias": "C" },
+        { "id": 2, "name": "De forma criativa e experimental", "alias": "P" },
+        { "id": 3, "name": "Com uma abordagem equilibrada", "alias": "J" },
+        { "id": 4, "name": "Intuitivamente e flexivelmente", "alias": "P" }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "O que você valoriza mais em uma linguagem de programação?",
+      "options": [
+        { "id": 1, "name": "Performance e eficiência", "alias": "C" },
+        { "id": 2, "name": "Facilidade de aprendizado", "alias": "P" },
+        { "id": 3, "name": "Ampla comunidade e suporte", "alias": "J" },
+        { "id": 4, "name": "Versatilidade e flexibilidade", "alias": "P" }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Qual ambiente de desenvolvimento você prefere?",
+      "options": [
+        { "id": 1, "name": "Um ambiente robusto e estruturado", "alias": "C" },
+        {
+          "id": 2,
+          "name": "Um ambiente dinâmico e experimental",
+          "alias": "P"
+        },
+        {
+          "id": 3,
+          "name": "Um ambiente organizado e previsível",
+          "alias": "J"
+        },
+        { "id": 4, "name": "Um ambiente flexível e adaptável", "alias": "P" }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Como você se sente em relação a lidar com erros e bugs?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Prefiro prevenir erros desde o início",
+          "alias": "C"
+        },
+        {
+          "id": 2,
+          "name": "Acho que erros são oportunidades de aprendizado",
+          "alias": "P"
+        },
+        {
+          "id": 3,
+          "name": "Busco evitar erros, mas sei que são inevitáveis",
+          "alias": "J"
+        },
+        {
+          "id": 4,
+          "name": "Lidar com erros é parte natural do processo",
+          "alias": "P"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Qual o seu objetivo principal ao programar?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Criar sistemas robustos e eficientes",
+          "alias": "C"
+        },
+        {
+          "id": 2,
+          "name": "Explorar novas possibilidades e inovações",
+          "alias": "P"
+        },
+        {
+          "id": 3,
+          "name": "Desenvolver soluções confiáveis e estáveis",
+          "alias": "J"
+        },
+        {
+          "id": 4,
+          "name": "Adaptar-se a diferentes desafios e necessidades",
+          "alias": "P"
+        }
+      ]
+    }
+  ],
+  "results": {
+    "C": "Você provavelmente se daria bem com linguagens como C++ ou Java!",
+    "P": "Linguagens como Python ou JavaScript podem ser mais sua praia!",
+    "J": "Talvez linguagens como C# ou Ruby se encaixem melhor com seu estilo!"
+  }
+}
